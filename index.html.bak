@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="no">
+<head>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<title>Boozoholics presents : Robinson Boozo 2003</title>
+</head>
+<body style="align: center;">
+	<script language="JavaScript"> 
+	<!--
+		if(navigator.appName!="Microsoft Internet Explorer")
+		{
+			document.writeln("this is not internet explorer. we do not take responsibility for information-loss due to faulty rendering.");
+		}
+	-->
+	</script> 
+	
+	
+	<div class="main">
+	<!-- sorry about this ugly table, but I had to save time -->
+	<table width="750" cellpadding="0" cellspacing="0">
+		<tr>
+			<td colspan="2"><img src="pics/teacher_01.gif" width="440" height="15" alt="" /></td>
+			<td rowspan="3"><img src="pics/teacher_02.gif" width="310" height="500" alt="" /></td>
+		</tr>
+		<tr>
+			<td><img src="pics/teacher_03.gif" width="18" height="455" alt=""></td>
+			<td width="422" height="455">
+				<iframe src="main.html" frameborder="0" width="100%"  height="100%" scrolling="auto">
+				</iframe>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="pics/teacher_05.gif" width="440" height="30" alt="" /></td>
+		</tr>
+	</table>
+	we are boozoholics. you are just ordinary drunks.
+	</div>
+</body>
+</html>

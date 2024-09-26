@@ -1,0 +1,33 @@
+body{
+	text-align: center;
+	font: 0.8em verdana, sans-serif;
+	background: white;
+}
+
+table{
+	align: center;
+	text-align: center;
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+
+td{
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: red;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+div.main{
+	border: 1px solid black;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
